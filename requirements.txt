@@ -1,0 +1,15 @@
+# python -m pip install -r requirements.txt
+
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+xgboost
+imblearn
+
+requests
+
+jupyter
+ipykernel
+jupyterlab
